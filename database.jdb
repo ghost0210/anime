@@ -1,0 +1,2 @@
+Tomate_rico={'dir': '', 'cloudtype': 'moodle', 'moodle_host': '---', 'moodle_repo_id': 4, 'moodle_user': 'josemartinezz', 'moodle_password': '1234567c', 'isadmin': 1, 'zips': 100, 'uploadtype': 'evidence', 'proxy': '', 'tokenize': 0}
+Wiseman_07={'dir': '', 'cloudtype': 'moodle', 'moodle_host': 'https://eduvirtual.uho.edu.cu/', 'moodle_repo_id': 3, 'moodle_user': 'marials@uho.edu.cu', 'moodle_password': '1234567i', 'isadmin': 0, 'zips': 100, 'uploadtype': 'evidence', 'proxy': '', 'tokenize': 0}
